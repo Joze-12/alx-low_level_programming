@@ -7,14 +7,15 @@
   */
 int main(void)
 {
-	char string_val[9] = "Holberton";
-	int counter = 0;
-
-	while (counter < 9)
-	{
-		_putchar(string_val[counter]);
-		counter++;
-	}
+	_putchar('H');
+	_putchar('o');
+	_putchar('l');
+	_putchar('b');
+	_putchar('e');
+	_putchar('r');
+	_putchar('t');
+	_putchar('o');
+	_putchar('n');
 	_putchar('\n');
 
 	return (0);
