@@ -8,8 +8,8 @@
   */
 int _abs(int num)
 {
-	if (n >= 0)
-		return (n);
+	if (num >= 0)
+		return (num);
 	else
-		return (-n);
+		return (-num);
 }
