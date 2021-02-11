@@ -2,7 +2,7 @@
 
 /**
   * print_diagonal - Drwas a digonal line
-  * @n; the number of characters to be printed
+  * @n: the number of characters to be printed
   */
 void print_diagonal(int n)
 {
