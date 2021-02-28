@@ -4,7 +4,7 @@
 /**
   * main - adds positive numbers.
   * @argc: The number of arguments.
-  * @artv: The string argument.
+  * @argv: The string argument.
   *
   * Return: 0 on success, else 1 if one of the numbers contains symbols.
   */
